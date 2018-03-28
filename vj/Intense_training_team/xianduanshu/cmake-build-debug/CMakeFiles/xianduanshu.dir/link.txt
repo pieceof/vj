@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/xianduanshu.dir/c.cpp.o CMakeFiles/xianduanshu.dir/e.cpp.o CMakeFiles/xianduanshu.dir/f.cpp.o  -o xianduanshu 

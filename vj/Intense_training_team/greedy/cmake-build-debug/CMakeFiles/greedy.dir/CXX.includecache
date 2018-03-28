@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/11awyfeng/vj/Intense_training_team/greedy/j.cpp
+cstdio
+-
+iostream
+-
+cstring
+-
+string
+-
+algorithm
+-
+set
+-
+

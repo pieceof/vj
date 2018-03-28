@@ -1,0 +1,4 @@
+/home/ichiro/下载/clion-2017.2.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug 564785456456321231845648854564898789888523 -G "CodeBlocks - Unix Makefiles" /home/ichiro/11awyfeng/vj/pipi/1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ichiro/11awyfeng/vj/pipi/1/cmake-build-debug

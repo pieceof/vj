@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/qiangliantong.dir/c.cpp.o CMakeFiles/qiangliantong.dir/h.cpp.o CMakeFiles/qiangliantong.dir/e.cpp.o CMakeFiles/qiangliantong.dir/f.cpp.o  -o qiangliantong 

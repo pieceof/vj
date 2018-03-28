@@ -1,0 +1,3 @@
+/home/ichiro/11awyfeng/vj/Intense_training_team/xianduanshu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ichiro/11awyfeng/vj/Intense_training_team/xianduanshu/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ichiro/11awyfeng/vj/Intense_training_team/xianduanshu/cmake-build-debug/CMakeFiles/xianduanshu.dir

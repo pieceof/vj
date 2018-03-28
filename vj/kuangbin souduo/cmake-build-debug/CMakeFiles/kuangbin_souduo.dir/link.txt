@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/kuangbin_souduo.dir/b.cpp.o  -o kuangbin_souduo 

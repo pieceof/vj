@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/shortest_road.dir/ex1.cpp.o  -o shortest_road 

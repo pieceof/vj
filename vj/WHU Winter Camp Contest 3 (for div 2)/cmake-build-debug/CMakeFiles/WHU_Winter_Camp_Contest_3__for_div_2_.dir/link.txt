@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/WHU_Winter_Camp_Contest_3__for_div_2_.dir/c.cpp.o  -o WHU_Winter_Camp_Contest_3__for_div_2_ 

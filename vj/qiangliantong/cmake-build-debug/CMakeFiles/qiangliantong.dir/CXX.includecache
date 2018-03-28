@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ichiro/11awyfeng/vj/qiangliantong/c.cpp
+bits/stdc++.h
+-
+
+/home/ichiro/11awyfeng/vj/qiangliantong/e.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+vector
+-
+
+/home/ichiro/11awyfeng/vj/qiangliantong/h.cpp
+bits/stdc++.h
+-
+

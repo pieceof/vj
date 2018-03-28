@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/kuangbinsousuo.dir/a.cpp.o  -o kuangbinsousuo 
